@@ -22,7 +22,7 @@
 
 ## Education
 
-##### Сhemical and Technological University from Ivanovo 2005-2011
-##### process engineer
+#### Сhemical and Technological University from Ivanovo 2005-2011
+#### Process Engineer
 
 ## English level: B1
