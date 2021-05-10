@@ -1,4 +1,4 @@
-# Aleksey Ivanov, 33 years old
+## Aleksey Ivanov
 
 ## Contact info
 
@@ -11,7 +11,7 @@
 ##### I'm beginner Android developer with basic knowledge of object-oriented programming, algorithms and UX/UI.
 ##### I am interested in studying mobile development and learning something new
 
-# Technical skills
+## Technical skills
 
 ### * *Java*
 ### * *Kotlin*
