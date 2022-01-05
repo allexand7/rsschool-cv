@@ -6,19 +6,19 @@
  ### E-mail: aleksey.and88@gmail.com
  ### Discord: allexand7#7554
 
- Summary
+ ### Summary
 
- I'm beginner Android developer with basic knowledge of object-oriented programming, algorithms and UX/UI.
- I am interested in studying mobile development and learning something new
+ #### I'm beginner Android developer with basic knowledge of object-oriented programming, algorithms and UX/UI.
+ #### I am interested in studying mobile development and learning something new
 
- Technical skills
+ ### Technical skills
 
- * *Java*
- * *Kotlin*
- * *Android SDK*
- * *Git*
- * *Flutter*
- * *SQLite*
+ ### * *Java*
+ ### * *Kotlin*
+ ### * *Android SDK*
+ ### * *Git*
+ ### * *Flutter*
+ ### * *SQLite*
 
  Education
 
