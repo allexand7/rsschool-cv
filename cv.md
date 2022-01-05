@@ -1,10 +1,10 @@
- Aleksey Ivanov
+ ##### Aleksey Ivanov
 
- Contact info
+ ### Contact info
 
- Telegram: @alekseyand
- E-mail: aleksey.and88@gmail.com
- Discord: allexand7#7554
+ ### Telegram: @alekseyand
+ ### E-mail: aleksey.and88@gmail.com
+ ### Discord: allexand7#7554
 
  Summary
 
