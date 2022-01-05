@@ -1,4 +1,4 @@
- ##### Aleksey Ivanov
+ # Aleksey Ivanov
 
  ### Contact info
 
