@@ -1,1 +1,1 @@
-### https://allexand7.github.io/rsschool-cv/cv.md
+### https://allexand7.github.io/rsschool-cv/cv
